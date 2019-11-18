@@ -1,0 +1,1 @@
+ALTER TABLE `costs` ADD `created` DATETIME DEFAULT NULL AFTER `comment`;
