@@ -106,7 +106,7 @@
 		<div class="clearfix"></div>
 	<?php endif; ?>
 <?php if(count($crosses) >= 1): ?>
-	<ul class="nav nav-tabs">
+	<ul class="nav nav-tabs" id="kodoc-logo">
 		<h1 class="active">Аналоги</h1>
 	</ul>
 	<div class="row" data-gutter="15">
