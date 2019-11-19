@@ -1,0 +1,1 @@
+INSERT INTO permissions (`name`, `description`) VALUES ('user_balance', 'Просмотр баланса сотрудников');

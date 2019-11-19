@@ -1,0 +1,1 @@
+INSERT INTO permissions (`name`, `description`) VALUES ('sms_send_props', 'Отправка реквизитов');

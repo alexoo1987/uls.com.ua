@@ -1,0 +1,33 @@
+<?php defined('SYSPATH') or die('No direct access allowed.');
+
+return array
+(
+	'default' => array(
+		'type'       => 'MySQLi',
+		'connection' => array(
+			'hostname'   => 'eparts.kiev.ua',
+			'username'   => 'root',
+			'password'   => 'Werthrf2',
+			'persistent' => FALSE,
+			'database'   => 'autoparts',
+		),
+		'table_prefix' => '',
+		'charset'      => 'utf8',
+		'caching'      => FALSE,
+		'profiling'    => FALSE,
+	),
+	'tecdoc' => array(
+		'type'       => 'MySQLi',
+		'connection' => array(
+			'hostname'   => 'eparts.kiev.ua',
+			'username'   => 'root',
+			'password'   => 'Werthrf2',
+			'persistent' => FALSE,
+			'database'   => 'autoparts', // now it is same db as default. TODO change in all files to using one db
+		),
+		'table_prefix' => '',
+		'charset'      => 'utf8',
+		'caching'      => FALSE,
+		'profiling'    => FALSE,
+	)
+);

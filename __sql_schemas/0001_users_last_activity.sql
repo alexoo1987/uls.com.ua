@@ -1,0 +1,1 @@
+ALTER TABLE users ADD last_activity INT(10) AFTER last_login;
