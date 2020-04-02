@@ -2,6 +2,7 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="EditorCloneCaretAbove" />
+      <action id="Back" />
     </abbreviations>
   </component>
 </application>
