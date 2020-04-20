@@ -16,7 +16,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
-  <action id="ShowAppliedStylesAction">
+  <action id="Tool_External Tools_cssComb">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
 </keymap>
