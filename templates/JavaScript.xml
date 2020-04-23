@@ -1,5 +1,6 @@
 <templateSet group="JavaScript">
-  <template name="clc" value="class  extends " description="Class Copmponent" toReformat="false" toShortenFQNames="true">
+  <template name="clc" value="class $yo$ extends React.Component" description="Class like Copmponent" toReformat="false" toShortenFQNames="true">
+    <variable name="yo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
