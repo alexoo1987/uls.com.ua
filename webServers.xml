@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e2c2fbb5-4af5-4937-b251-1dfcf77e04ea" name="counterRedux" url="https://github.com/alexooua/counter.git">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
