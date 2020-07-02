@@ -1,0 +1,8 @@
+<templateSet group="mySnippets">
+  <template name="fr" value="()=&gt;{}" description="row functin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
